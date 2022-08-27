@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewithzeyn
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...zeynwithit@gmai.com
+- 📫 How to reach me ...codewithzeyn@gmail.com
 
 <!---
 codewithzeyn/codewithzeyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
